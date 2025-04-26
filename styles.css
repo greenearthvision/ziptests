@@ -1,24 +1,25 @@
 body {
   font-family: Arial, sans-serif;
   background: #f0f2f5;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
 }
 
-.wizard-container {
+.container {
   background: white;
-  padding: 2em;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 320px;
   text-align: center;
-  max-width: 400px;
 }
 
-.wizard-controls button {
-  margin: 1em;
-  padding: 0.5em 1em;
-  font-size: 1em;
+.controls button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
 }

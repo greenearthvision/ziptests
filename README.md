@@ -1,8 +1,11 @@
-# AppWizard Starter v2
+# AppWizard Starter v3
+
+✅ Clean, modular structure.
+✅ Replit optimized (Node.js template, 5000 port binding, agent friendly).
 
 ## How to Deploy
-1. Create a new Repl using **Node.js** template (NOT HTML/CSS/JS).
-2. Upload all these files into the Repl.
+1. Create a new Repl from the **Node.js template** (NOT HTML/CSS/JS).
+2. Upload these files.
 3. Press **Run**.
 
-✅ Includes server.js, package.json with "type: module", and .replit correctly configured.
+Enjoy building AppWizard cleanly!

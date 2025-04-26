@@ -1,7 +1,7 @@
 {
-  "name": "appwizard",
+  "name": "appwizard-starter",
   "version": "1.0.0",
-  "description": "AppWizard Starter Project",
+  "description": "Replit-optimized AppWizard Starter",
   "type": "module",
   "main": "server.js",
   "scripts": {
